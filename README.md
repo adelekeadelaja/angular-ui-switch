@@ -1,7 +1,7 @@
 # angular-ui-switch version 1.0.0
 AngularJS toggle-switch styled completely in css.
 
-[angular-ui-switch demo](http://dwleke.info/angular-ui-switch/)
+[angular-ui-switch demo](http://dwleke.info/angular-ui-switch.html)
 
 
 ## Usage
